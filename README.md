@@ -55,7 +55,7 @@
   <li>🎓 BSc in Information Technology, Eduvos (Specialized in Software Engineering)</li>
   <li>📱 Built StockWiz — a mobile inventory management app for a real-world business</li>
   <li>🎤 Member of debate club and participated in a hackathon</li>
-  <li>🌍 Based in Zimbabwe, open to remote and hybrid opportunities</li>
+  <li>🌍 Based in South Africa, open to remote and hybrid opportunities</li>
   <li>💡 Always learning: exploring Spring AI, microservices, and system design</li>
 </ul>
 
